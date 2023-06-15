@@ -43,9 +43,7 @@ npm start
   Testing for this project will come at a later date. 
 
   ## Contributions
-  https://github.com/coding-boot-camp/cautious-meme Starter Code!
   
-  Chatgpt for questions
 
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at mrsima1357@gmail.com.
